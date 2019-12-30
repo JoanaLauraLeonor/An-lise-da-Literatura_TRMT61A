@@ -1,0 +1,269 @@
+
+PMID- 31743616
+OWN - NLM
+STAT- In-Data-Review
+LR  - 20191222
+IS  - 2162-3279 (Electronic)
+VI  - 9
+IP  - 12
+DP  - 2019 Dec
+TI  - Association between ELP4 rs986527 polymorphism and the occurrence and development
+      of intracranial arachnoid cyst.
+PG  - e01480
+LID - 10.1002/brb3.1480 [doi]
+AB  - OBJECTIVE: The association between ELP4 rs986527 polymorphism and the occurrence 
+      and development of intracranial arachnoid cyst was studied in this paper.
+      METHODS: Eighty-five patients diagnosed with intracranial arachnoid cysts by
+      cerebral computed tomography scan were selected. Sixty-three healthy volunteers
+      for medical examination in hospitals served as controls. The cognition,
+      depressive symptoms, and the likelihood of headache, dizziness, head trauma
+      history, dementia, depression, and epilepsy were assessed. ELP4 genotypes and its
+      allele frequency were determined by PCR, endonuclease restriction analysis, and
+      gel electrophoresis. RESULTS: ELP4 rs986527 had three genotypes: TT, TC, and CC. 
+      The intracranial arachnoid cyst group showed no statistically significant
+      difference in genotype frequencies compared with healthy controls. There was no
+      significant correlation between ELP4 rs986527 polymorphism and location of
+      intracranial arachnoid cyst. TC and C genotype frequencies were associated with a
+      higher incidence of clinical symptoms than TT genotype frequencies, and C allele 
+      frequencies were associated with a significantly higher incidence of clinical
+      symptoms compared with T allele frequencies. There was no significant difference 
+      in TNF-alpha and IL-1beta levels between TT/TC/CC genotypes before treatment.
+      After treatment, the levels of TNF-alpha and IL-1beta were significantly
+      decreased in different genotypes, and the decrease in CC was the greatest. The
+      frequency of TT and TC genotypes was higher than that of CC genotypes.
+      CONCLUSION: ELP4 rs986527 polymorphism affected the incidence of clinical
+      symptoms and the levels of TNF-alpha and IL-1beta in patients with intracranial
+      arachnoid cysts.
+CI  - (c) 2019 The Authors. Brain and Behavior published by Wiley Periodicals, Inc.
+FAU - Li, Kai
+AU  - Li K
+AD  - Department of Neurosurgery, Beijing Tian Tan Hospital, Capital Medical
+      University, Beijing, China.
+AD  - Department of Neurosurgery, Peking University International Hospital, Beijing,
+      China.
+FAU - Kong, De-Sheng
+AU  - Kong DS
+AD  - Department of Neurosurgery, Peking University International Hospital, Beijing,
+      China.
+FAU - Zhang, Jun
+AU  - Zhang J
+AD  - Department of Neurosurgery, Peking University International Hospital, Beijing,
+      China.
+FAU - Wang, Xin-Sheng
+AU  - Wang XS
+AD  - Department of Neurosurgery, Beijing Tian Tan Hospital, Capital Medical
+      University, Beijing, China.
+FAU - Ye, Xun
+AU  - Ye X
+AD  - Department of Neurosurgery, Beijing Tian Tan Hospital, Capital Medical
+      University, Beijing, China.
+FAU - Zhao, Yuan-Li
+AU  - Zhao YL
+AUID- ORCID: https://orcid.org/0000-0003-1104-8459
+AD  - Department of Neurosurgery, Beijing Tian Tan Hospital, Capital Medical
+      University, Beijing, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20191119
+PL  - United States
+TA  - Brain Behav
+JT  - Brain and behavior
+JID - 101570837
+SB  - IM
+PMC - PMC6908874
+OTO - NOTNLM
+OT  - ELP4
+OT  - incidence
+OT  - intracranial arachnoid cyst
+OT  - polymorphism
+EDAT- 2019/11/20 06:00
+MHDA- 2019/11/20 06:00
+CRDT- 2019/11/20 06:00
+PHST- 2019/07/04 00:00 [received]
+PHST- 2019/10/14 00:00 [accepted]
+PHST- 2019/11/20 06:00 [pubmed]
+PHST- 2019/11/20 06:00 [medline]
+PHST- 2019/11/20 06:00 [entrez]
+AID - 10.1002/brb3.1480 [doi]
+PST - ppublish
+SO  - Brain Behav. 2019 Dec;9(12):e01480. doi: 10.1002/brb3.1480. Epub 2019 Nov 19.
+
+PMID- 31450992
+OWN - NLM
+STAT- Publisher
+LR  - 20190827
+IS  - 1476-4954 (Electronic)
+IS  - 1476-4954 (Linking)
+DP  - 2019 Aug 27
+TI  - Genetic testing in fetuses with isolated agenesis of the corpus callosum.
+PG  - 1-201
+LID - 10.1080/14767058.2019.1660769 [doi]
+AB  - Purpose: The objectives of this study were to explore genetics pathogenesis of
+      isolated agenesis of corpus callosum (ACC) and assess the utility of chromosomal 
+      microarray analysis (CMA) for genetic diagnosis of Isolated ACC. Methods: We
+      analyzed the genomes of 16 fetuses with isolated ACC using Afymetrix CytoScan HD 
+      arrays and conducted further bioinformatic analysis for one proband fetus with an
+      abnormal copy number variation (CNV). Results: Of the 16 fetal samples examined, 
+      2 (12.5%) had pathogenic CNVs and 3 (18.75%) had variants of unknown
+      significance. Two cases, case 2 and case 9, were found to have pathogenic CNVs.
+      Bioinformatic analyses indicated that the CNV of one fetus (case 9) contained 115
+      annotated coding genes, 5 of which (SLC6A5, BDNF, ELP4, PAX6, and SLC1A2) have
+      been associated with neurodevelopment. Three of these genes (SLC1A2, BDNF, and
+      PAX6) may play a key role in ACC development. GO cluster analysis of the
+      implicated genes revealed strong representations of protein binding and metal ion
+      binding functions. KEGG pathway analysis pointed to four pathways: longevity
+      regulating pathway, amyotrophic lateral sclerosis, cocaine addiction, and
+      autophagy-animal. Conclusions: BDNF, SLC1A2, and PAX6 may be involved in the
+      development of isolated ACC. CMA is a feasible technology for prenatal diagnosis 
+      of isolated ACC.
+FAU - She, Qin
+AU  - She Q
+AD  - Zhujiang Hospital, Southern Medical University or The Second School of Clinical
+      Medicine, Southern Medical University , Guangzhou , China.
+AD  - Prenatal Diagnostic Center, Guangzhou Women and Children's Medical Center ,
+      Guangzhou , China.
+AD  - Prenatal Diagnostic Center, the Six Affiliated Hospital, Guangzhou Medical
+      University , Qingyuan , China.
+FAU - Fu, Fang
+AU  - Fu F
+AD  - Prenatal Diagnostic Center, Guangzhou Women and Children's Medical Center ,
+      Guangzhou , China.
+FAU - Guo, Xiaoyan
+AU  - Guo X
+AD  - Prenatal Diagnostic Center, the Six Affiliated Hospital, Guangzhou Medical
+      University , Qingyuan , China.
+FAU - Tan, Weihe
+AU  - Tan W
+AD  - Prenatal Diagnostic Center, the Six Affiliated Hospital, Guangzhou Medical
+      University , Qingyuan , China.
+FAU - Liao, Can
+AU  - Liao C
+AD  - Zhujiang Hospital, Southern Medical University or The Second School of Clinical
+      Medicine, Southern Medical University , Guangzhou , China.
+AD  - Prenatal Diagnostic Center, Guangzhou Women and Children's Medical Center ,
+      Guangzhou , China.
+LA  - eng
+PT  - Journal Article
+DEP - 20190827
+PL  - England
+TA  - J Matern Fetal Neonatal Med
+JT  - The journal of maternal-fetal & neonatal medicine : the official journal of the
+      European Association of Perinatal Medicine, the Federation of Asia and Oceania
+      Perinatal Societies, the International Society of Perinatal Obstetricians
+JID - 101136916
+SB  - IM
+OTO - NOTNLM
+OT  - CMA
+OT  - Chromosome microarray
+OT  - fetus
+OT  - genetic testing
+OT  - isolated agenesis of corpus callosum
+EDAT- 2019/08/28 06:00
+MHDA- 2019/08/28 06:00
+CRDT- 2019/08/28 06:00
+PHST- 2019/08/28 06:00 [entrez]
+PHST- 2019/08/28 06:00 [pubmed]
+PHST- 2019/08/28 06:00 [medline]
+AID - 10.1080/14767058.2019.1660769 [doi]
+PST - aheadofprint
+SO  - J Matern Fetal Neonatal Med. 2019 Aug 27:1-201. doi:
+      10.1080/14767058.2019.1660769.
+
+PMID- 30401723
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190521
+LR  - 20190521
+IS  - 1532-2548 (Electronic)
+IS  - 0032-0889 (Linking)
+VI  - 179
+IP  - 1
+DP  - 2019 Jan
+TI  - Elongator Is Required for Root Stem Cell Maintenance by Regulating SHORTROOT
+      Transcription.
+PG  - 220-232
+LID - 10.1104/pp.18.00534 [doi]
+AB  - SHORTROOT (SHR) is essential for stem cell maintenance and radial patterning in
+      Arabidopsis (Arabidopsis thaliana) roots, but how its expression is regulated is 
+      unknown. Here, we report that the Elongator complex, which consists of six
+      subunits (ELP1 to ELP6), regulates the transcription of SHR Depletion of
+      Elongator drastically reduced SHR expression and led to defective root stem cell 
+      maintenance and radial patterning. The importance of the nuclear localization of 
+      Elongator for its functioning, together with the insensitivity of the elp1 mutant
+      to the transcription elongation inhibitor 6-azauracil, and the direct interaction
+      of the ELP4 subunit with the carboxyl-terminal domain of RNA polymerase II,
+      support the notion that Elongator plays important roles in transcription
+      elongation. Indeed, we found that ELP3 associates with the premessenger RNA of
+      SHR and that mutation of Elongator reduces the enrichment of RNA polymerase II on
+      the SHR gene body. Moreover, Elongator interacted in vivo with SUPPRESSOR OF Ty4,
+      a well-established transcription elongation factor that is recruited to the SHR
+      locus. Together, these results demonstrate that Elongator acts in concert with
+      SUPPRESSOR OF Ty4 to regulate the transcription of SHR.
+CI  - (c) 2019 American Society of Plant Biologists. All Rights Reserved.
+FAU - Qi, Linlin
+AU  - Qi L
+AUID- ORCID: 0000-0001-5187-8401
+AD  - State Key Laboratory of Crop Biology, College of Agronomy, Shandong Agricultural 
+      University, Taian, Shandong 271018, China.
+AD  - University of the Chinese Academy of Sciences, Beijing 100049, China.
+FAU - Zhang, Xiaoyue
+AU  - Zhang X
+AUID- ORCID: 0000-0003-4358-5881
+AD  - University of the Chinese Academy of Sciences, Beijing 100049, China.
+AD  - State Key Laboratory of Plant Genomics, National Centre for Plant Gene Research, 
+      Institute of Genetics and Developmental Biology, Chinese Academy of Sciences,
+      Beijing 100101, China.
+FAU - Zhai, Huawei
+AU  - Zhai H
+AD  - University of the Chinese Academy of Sciences, Beijing 100049, China.
+AD  - State Key Laboratory of Plant Genomics, National Centre for Plant Gene Research, 
+      Institute of Genetics and Developmental Biology, Chinese Academy of Sciences,
+      Beijing 100101, China.
+FAU - Liu, Jian
+AU  - Liu J
+AD  - State Key Laboratory of Crop Biology, College of Agronomy, Shandong Agricultural 
+      University, Taian, Shandong 271018, China.
+FAU - Wu, Fangming
+AU  - Wu F
+AD  - University of the Chinese Academy of Sciences, Beijing 100049, China.
+FAU - Li, Chuanyou
+AU  - Li C
+AUID- ORCID: 0000-0003-0202-3890
+AD  - University of the Chinese Academy of Sciences, Beijing 100049, China.
+FAU - Chen, Qian
+AU  - Chen Q
+AUID- ORCID: 0000-0002-0300-3931
+AD  - State Key Laboratory of Crop Biology, College of Agronomy, Shandong Agricultural 
+      University, Taian, Shandong 271018, China chenqiangenetics@163.com.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20181106
+PL  - United States
+TA  - Plant Physiol
+JT  - Plant physiology
+JID - 0401224
+RN  - 0 (Arabidopsis Proteins)
+RN  - 0 (SHORT ROOT protein, Arabidopsis)
+RN  - 0 (Transcription Factors)
+SB  - IM
+MH  - Arabidopsis/cytology/*genetics/growth & development
+MH  - Arabidopsis Proteins/genetics/metabolism/*physiology
+MH  - Meristem/*cytology/genetics/growth & development
+MH  - Plant Roots/cytology/genetics/growth & development
+MH  - Transcription Factors/genetics/*metabolism/physiology
+MH  - Transcription, Genetic
+PMC - PMC6324240
+EDAT- 2018/11/08 06:00
+MHDA- 2019/05/22 06:00
+CRDT- 2018/11/08 06:00
+PHST- 2018/05/03 00:00 [received]
+PHST- 2018/10/29 00:00 [accepted]
+PHST- 2018/11/08 06:00 [pubmed]
+PHST- 2019/05/22 06:00 [medline]
+PHST- 2018/11/08 06:00 [entrez]
+AID - pp.18.00534 [pii]
+AID - 10.1104/pp.18.00534 [doi]
+PST - ppublish
+SO  - Plant Physiol. 2019 Jan;179(1):220-232. doi: 10.1104/pp.18.00534. Epub 2018 Nov
+      6.
